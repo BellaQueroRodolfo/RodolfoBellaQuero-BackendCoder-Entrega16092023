@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Plant 1",
+      "description": "Beautiful indoor plant",
+      "price": 29.99,
+      "thumbnail": "images/img1.webp",
+      "code": "PLT001",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "title": "Plant 2",
+      "description": "Exotic outdoor plant",
+      "price": 39.99,
+      "thumbnail": "images/img2.webp",
+      "code": "PLT002",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "title": "Plant 3",
+      "description": "Succulent plant",
+      "price": 19.99,
+      "thumbnail": "images/img3.webp",
+      "code": "PLT003",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "title": "Plant 4",
+      "description": "Colorful flowers",
+      "price": 49.99,
+      "thumbnail": "images/img4.jpg",
+      "code": "PLT004",
+      "stock": 12
+    }
+  ]
+  
